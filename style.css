@@ -1,0 +1,37 @@
+body{
+    font-family: 'Kaushan Script', cursive;
+    background: rgb(219, 221, 214);
+}
+
+.header_div {
+    background: white;
+    color: red;
+}
+
+.header_div p{
+    color: gray;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+s
+.main_div button{
+    font-family: 'Robota',sans-serif;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+
+.copy_right_footer {
+bottom: 0;
+position: fixed;
+color: aquamarine;
+background-color: rgb(109, 227, 31);
+width: 100%;
+line-height: 3;
+text-align: center;
+font-family: 'Playfair Display', serif;
+text-shadow: 5px 5px 5px rgb(133, 124, 124);
+}
